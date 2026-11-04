@@ -1,0 +1,24 @@
+.intro-author {
+  margin-bottom: 26px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #536486;
+}
+.intro-author strong {
+  display: block;
+  color: #f4f6ff;
+  font-size: clamp(24px, 3vw, 34px);
+  line-height: 1.2;
+}
+.intro-author span {
+  display: block;
+  margin-top: 8px;
+  color: #bac6e5;
+  font-size: 15px;
+}
+.brand small.author {
+  margin-top: 4px;
+  color: #a8b5d0;
+  font-size: 11px;
+  font-weight: 400;
+  letter-spacing: .5px;
+}
